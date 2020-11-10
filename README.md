@@ -1,7 +1,7 @@
 # Hidden Word Starter Lab
 In this lab, we will start to explore a Word Guessing Game. 
 
-In the early 2000s game show [Lingo](https://en.wikipedia.org/wiki/Lingo_(American_game_show)), contestants would try to guess a Hidden Word. Their guesses would be in the form of of a word. If a letter in their guess was in the correct position, the letter would appear. If a letter from the guess exists anywhere in the hidden word, but not at that location, it would be circled. See the sample game board image below: 
+In the early 2000s game show [Lingo](https://en.wikipedia.org/wiki/Lingo_(American_game_show)), contestants would try to guess a Hidden Word. Their guesses would be in the form of a word. If a letter in their guess was in the correct position, the letter would be locked. If a letter from their guess exists anywhere in the hidden word, but not at that location, it would be circled. See the sample game board image below: 
 ![Sample Lingo Game Board](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lingopuzzle.svg/220px-Lingopuzzle.svg.png)
 
 
