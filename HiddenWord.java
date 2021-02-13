@@ -19,6 +19,6 @@ public class HiddenWord
   {
 
 
-    return "Hello World";
+    return "";
   }
 }
